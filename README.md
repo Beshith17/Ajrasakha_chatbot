@@ -259,10 +259,4 @@ For a large-scale design discussion, distinguish improvements from current imple
 - React farmer/expert dashboards, REST APIs, Socket.IO update events, Firebase Google popup login, local profile storage, MongoDB persistence, Gemini/Sarvam integrations, and the documented audio flow.
 - Optional OpenAI/Plant.id diagnosis service code and seeded knowledge entries.
 
-### Do not claim in an interview
 
-- Three-tier retrieval, Golden Dataset-first answering, or Package of Practices fallback: the data is seeded but never searched.
-- Automatic language detection or active translation.
-- JWT/cookie/Firebase-token verification, server-enforced roles, secure API authorization, or socket authentication.
-- A working image-diagnosis feature: its routes are unmounted and no frontend UI exists.
-- Tests, rate limiting, file-type validation, or production-scale realtime deployment.
